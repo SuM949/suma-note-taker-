@@ -1,0 +1,21 @@
+{
+  "name": "suma-note-taker-",
+  "version": "1.0.0",
+  "description": "node api hosted by heroku",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuM949/suma-note-taker-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuM949/suma-note-taker-/issues"
+  },
+  "homepage": "https://github.com/SuM949/suma-note-taker-#readme"
+}
